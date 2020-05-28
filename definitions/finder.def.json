@@ -9,6 +9,7 @@
         "category": "Other",
         "file_formats": "text/x-gcode",
         "visible": true,
+        "platform": "FlashforgeFinderBed.stl",
         "machine_extruder_trains":
         {
             "0": "FF_finder_extruder_0"
@@ -29,7 +30,8 @@
         "machine_center_is_zero": { "default_value": true },
         "machine_gcode_flavor": { "default_value": "Marlin" },
         "machine_heated_build_volume": {"default_value" : false },
-        "gantry_height": {"default_value": 28},
-         "machine_head_with_fans_polygon" :{"defualt_value": [[-37, 55], [-37, -55], [37, 55], [37, -55]] }
+        "gantry_height": {"default_value": 28}
+        
+        
             }
 }
