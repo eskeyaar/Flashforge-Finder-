@@ -23,8 +23,8 @@
         {
             "default_value": "M104 S0 T0\nG28 X Y\nM132 X Y Z A B\nG91\nM18 "
         },
-        "machine_width": { "default_value":140 },
-        "machine_depth": { "default_value": 140 },
+        "machine_width": { "default_value":141.3 },
+        "machine_depth": { "default_value": 141.3 },
         "machine_height": { "default_value": 140 },
         "machine_heated_bed": { "default_value": false },
         "machine_center_is_zero": { "default_value": true },
