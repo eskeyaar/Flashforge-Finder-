@@ -7,7 +7,7 @@
         "author": "Santy3D",
         "manufacturer": "Flashforge",
         "category": "Other",
-        "file_formats": "text/x-gcode",
+        "file_formats": "application/gx",
         "visible": true,
         "platform": "FlashforgeFinderBed.stl",
         "machine_extruder_trains":
