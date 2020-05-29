@@ -1,4 +1,4 @@
 # Flashforge-Finder-
 Defintion and extruder file for Flashforge finder.
 Make sure you put the correct dejson file in respective folders.
-Added Curaprofile, complied from S3D and Flashprint.
+Added Curaprofile, gives best result so far.
