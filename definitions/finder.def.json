@@ -8,6 +8,8 @@
         "manufacturer": "Flashforge",
         "category": "Other",
         "file_formats": "application/gx",
+        "has_machine_quality": true,
+        "prefered_quality_type": "normal",
         "visible": true,
         "platform": "FlashforgeFinderBed.stl",
         "machine_extruder_trains":
